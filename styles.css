@@ -1,0 +1,31 @@
+.banner {
+    background-image: url(./assets/img/ImageForNews_735641_16735286404943588.webp);
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    }
+
+.roboto {
+        font-family: "Roboto Condensed", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+    }
+
+.fs-1 {
+    font-size: 2rem;
+}
+
+.fs-2 {
+    font-size: 1.5rem;
+}
+
+.fs-3 {
+    font-size: 1.5rem;
+}
+
+.fs-4 {
+    color: black;
+    font-weight: 800;
+}
